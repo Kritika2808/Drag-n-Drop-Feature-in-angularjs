@@ -51,8 +51,9 @@ body{
 	padding: 23px;
 	/* float: left; */
 	width: 100px;
-	height: 67px;
-	/* font-size: 4em; */
+	height:42px;
+	/*height: 67px;
+	 font-size: 4em; */
 	text-align: center;
 	list-style-type: none;
 }
